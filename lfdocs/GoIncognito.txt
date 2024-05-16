@@ -1,0 +1,30 @@
+Title: GoIncognito
+
+URL Source: https://docs.lightfunnels.com/goincognito/
+
+Published 
+
+Markdown Content:
+GoIncognito is a Lightfunnels application that customizes what you want your customers to see based on their country, showing content relevant to their locations.
+
+### How it works?
+
+![Image 1](https://docs.lightfunnels.com/content/images/2024/02/image-5.png)
+
+To enable it, please follow these steps :
+
+1.  Log into your Lightfunnels account and go to the Apps tab.
+2.  Look for the GoIncognito app and click Install then open the app.
+3.  Click on “ New redirect”
+4.  Please, name the redirection:
+
+*   For the “Source Funnel”, choose one of the funnels you have in your account to be available for everyone, unless those countries you want them to be redirected to another .
+*   For the “Redirect to”, please make sure to choose the funnel that you want your customers from the countries you will select to be redirected to by clicking on the link of the “source funnel”.
+*   When it comes to the countries you can select as many countries as you want, your customers from those countries will be only able to see the “Redirect country”, and save.
+
+Please consider the following:
+
+*   Users outside the countries you select will be able to access the “Redirect to funnel”.
+*   In case you want to test it yourself, please make sure your location belongs to the countries listed, and for other locations, you can use VPN to test.
+
+![Image 2](https://docs.lightfunnels.com/content/images/2024/02/image-6.png)

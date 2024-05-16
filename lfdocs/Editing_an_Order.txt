@@ -1,0 +1,27 @@
+Title: Editing an Order
+
+URL Source: https://docs.lightfunnels.com/editing-an-order/
+
+Published 
+
+Markdown Content:
+At any time you can add or remove items from an order. This can happen if the buyer requests a change to their order for some reason like choosing the wrong variant.
+
+Open the order that you want to edit and click `Edit Order`.
+
+Adding items[](#adding-items)
+-----------------------------
+
+1.  Click `Add Items`
+2.  Select the products that you want to add
+3.  Select the variants that you want to add
+4.  Click `Add`
+
+Removing items[](#removing-items)
+---------------------------------
+
+1.  Set the number on each line to the quantity of items that you want to keep
+2.  You get a preview of the price change
+3.  Click `Edit Order`
+
+Your order is now updated.

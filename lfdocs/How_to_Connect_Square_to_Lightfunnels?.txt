@@ -1,0 +1,27 @@
+Title: How to Connect Square to Lightfunnels?
+
+URL Source: https://docs.lightfunnels.com/square/
+
+Published 
+
+Markdown Content:
+### Introduction:[](#introduction)
+
+Square is a widely recognized payment gateway known for its ease of use and secure transaction processing. Integrating Square with Lightfunnels provides businesses with an efficient method to handle payments. This guide outlines the straightforward steps to integrate Square into Lightfunnels.
+
+### Steps to Integrate Square into Lightfunnels:[](#steps-to-integrate-square-into-lightfunnels)
+
+*   Log into your Lightfunnels account.
+*   Click on `Settings`.
+*   Go to `Payment Gateways`.
+*   Within the `Payment Gateways` section, click on `Add Payment Gateway`.
+*   Select `Square` from the list of available gateways.
+
+### Input Your Square Credentials:[](#input-your-square-credentials)
+
+*   You'll be prompted to provide specific details, such as your Application ID and Access Token. Ensure you enter these accurately to facilitate seamless transactions.
+*   After completing the configuration, ensure to connect Square with your funnel or store
+
+Watch the video below for a step-by-step guide on setting up Square with Lightfunnels.
+
+**Happy Selling 💸💸💸💸**

@@ -1,0 +1,88 @@
+Title: Introduction to the Funnel Builder
+
+URL Source: https://docs.lightfunnels.com/introduction-to-the-funnel-builder/
+
+Published 
+
+Markdown Content:
+A sales funnel is a series of pages that your customer goes through in their buying process.
+
+The funnel builder allows you to build your funnel in a simple yet intuitive manner.
+
+![Image 1](https://docs.lightfunnels.com/content/images/2021/07/image-2.png)
+
+Funnel Builder
+
+Navigation[](#navigation)
+-------------------------
+
+To navigate around the funnel builder, you can:
+
+*   Pan around by clicking an empty area and dragging around
+*   Scrolling up and down to zoom in and out
+
+Adding Funnel Pages[](#adding-funnel-pages)
+-------------------------------------------
+
+You can add a page to your funnel in two ways:
+
+1.  By clicking the + icon on the bottom right corner
+2.  By dragging a link and releasing the mouse on an empty area
+
+![Image 2](https://docs.lightfunnels.com/content/images/2021/07/image-5.png)
+
+Adding a page to the funnel builder
+
+Editing Funnel Pages[](#editing-funnel-pages)
+---------------------------------------------
+
+You can edit a page in the page builder in two ways:
+
+1.  Clicking on the page thumbnail image
+2.  Clicking on the edit icon at the bottom of the page node
+
+This will open the [page builder](https://docs.lightfunnels.com/page-elements/) where you can edit the content of your page.
+
+![Image 3](https://docs.lightfunnels.com/content/images/2021/07/image-4.png)
+
+Funnel Page Types[](#funnel-page-types)
+---------------------------------------
+
+There are several page types that you can choose from. Each page type can be used for a different purpose.
+
+We go over each page type in details on the [Funnel Page Types](https://docs.lightfunnels.com/funnel-pages/) page.
+
+Page Links[](#page-links)
+-------------------------
+
+Links, buttons and forms in your pages appear on the Funnel Builder as a blue circle. You can click and drag each link onto another page to create a connection or onto a blank area to create a new page and connect it to your link.
+
+![Image 4](https://docs.lightfunnels.com/content/images/2021/07/image-6.png)
+
+Click and drag the blue circle to create a connection
+
+![Image 5](https://docs.lightfunnels.com/content/images/2021/07/image-7.png)
+
+Linked pages
+
+Funnel Styles[](#funnel-styles)
+-------------------------------
+
+Funnel styles allow you to keep your styling congruent throughout all the funnel pages. By changing a color or size here, it also gets changed on all the page elements that use that same style.
+
+![Image 6](https://docs.lightfunnels.com/content/images/2021/07/image-8.png)
+
+Funnel Styles
+
+Analytics[](#analytics)
+-----------------------
+
+On each page on the funnel builder, you can see the page visits, your CTR (click through rate) and number of clicks on that page.
+
+This data helps you find out where your visitors are dropping and pin point areas that need to be fixed in order to improve performance.
+
+This data is related to a time frame that can be changed by clicking the icon on the bottom left corner of the funnel builder.
+
+![Image 7](https://docs.lightfunnels.com/content/images/2021/07/image-9.png)
+
+Funnel Builder Analytics

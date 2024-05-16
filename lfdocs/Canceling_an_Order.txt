@@ -1,0 +1,12 @@
+Title: Canceling an Order
+
+URL Source: https://docs.lightfunnels.com/canceling-an-order/
+
+Published 
+
+Markdown Content:
+To cancel an order, open the order and click `Cancel Order`.
+
+If you want to issue a refund, check `Issue refund`.
+
+Select a cancelation reason and whether you want to notify the user via email or not. Then click `Cancel Order`.

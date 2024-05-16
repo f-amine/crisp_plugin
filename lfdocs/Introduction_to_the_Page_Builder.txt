@@ -1,0 +1,133 @@
+Title: Introduction to the Page Builder
+
+URL Source: https://docs.lightfunnels.com/introduction-to-the-page-builder/
+
+Published 
+
+Markdown Content:
+Using the Page Builder, you can build any type of landing page inside an intuitive drag and drop interface. Let's take a look!
+
+![Image 1](https://docs.lightfunnels.com/content/images/2021/07/image-24.png)
+
+LightFunnels Page Builder
+
+To access the Page Builder, open a funnel and click on the page that you want to edit. The builder has 3 main areas.
+
+1.  The sidebar
+2.  The top bar
+3.  The content area
+
+There are 4 different sidebars that you can access by clicking the icons on the left side.
+
+1.  Add Elements
+2.  Edit Elements
+3.  Layers
+4.  Styles
+
+You can also click the gear to open the page settings and the question mark to access help options.
+
+### Add Elements[](#add-elements)
+
+![Image 2](https://docs.lightfunnels.com/content/images/2021/07/image-30.png)
+
+Add Elements Sidebar
+
+On the `Add elements` sidebar, you can choose from a large set of elements that you can drag and drop onto your page.
+
+Elements are grouped into categories. You can learn more about each element on the [Page Elements](https://docs.lightfunnels.com/page-elements-2/) page.
+
+To add an element, simply drag it and drop it wherever you want inside the content area.
+
+### Edit Elements[](#edit-elements)
+
+To edit an element, select it on the content area by clicking it. Its settings will appear on the sidebar.
+
+![Image 3](https://docs.lightfunnels.com/content/images/2021/07/image-31.png)
+
+Editing an element on the sidebar
+
+You can edit the element's content, its style and its layout by choosing the relevant tab at the top of the sidebar. Learn more on how to edit elements style on [Elements Styles](https://docs.lightfunnels.com/elements-styles-2/) and changing layouts on [Elements Layout](https://docs.lightfunnels.com/elements-layout/).
+
+### Layers Panel[](#layers-panel)
+
+The Layers panel gives you an overview of the structure of your page. This helps you understand the parent / child relationship between elements and helps you easily locate and organize elements by dragging and dropping elements in the tree.
+
+![Image 4](https://docs.lightfunnels.com/content/images/2021/07/image-32.png)
+
+Layers Panel
+
+### Funnel Styles[](#funnel-styles)
+
+Just like on the Funnel Builder, your funnel styles are also accessible from the Page Builder. This allows you to update the style across all your funnel pages while also previewing what your styles look like inside the page builder.
+
+![Image 5](https://docs.lightfunnels.com/content/images/2021/07/image-34.png)
+
+Funnel Styles inside the Page Builder
+
+### Page Settings[](#page-settings)
+
+Clicking the gear icon on the sidebar will open the page settings. From here, you can edit the page details, SEO information and add custom HTML code.
+
+![Image 6](https://docs.lightfunnels.com/content/images/2021/07/image-36.png)
+
+Page Settings
+
+Under the Details tab, you can change the following options:
+
+#### Details
+
+*   **Slug** - This is a unique character string that will be used in the URL to link to this page. The string can only have alphanumeric characters and dashes.
+*   **Title** - The title of the page. This title is only used internally.
+*   **Type** - The page type defines the purpose of this page in the funnel. You can learn more about [Funnel Page Types here](https://docs.lightfunnels.com/funnel-pages/).
+*   **Product** - If the page type is a `Product Page`, an `Upsell` or `Downsell` page, you can select a product to link to your page. This will allow you to easily use data from your product. We'll talk about about this in [Data Binding](https://docs.lightfunnels.com/data-binding/).
+
+#### SEO
+
+Under the SEO tab, you can add search engine optimization related information.
+
+*   **Title** - This is the title of the page that shows on your browser tab and in search engine result pages.
+*   **Description** - This is a description text that search engines use to understand what your page is about. Search engines often use it for the snippet in search results.
+
+#### Scripts
+
+You can add your own custom HTML to the head section of the page or at the end of the end right before the </body> tag of your page.
+
+Top Bar[](#top-bar)
+-------------------
+
+![Image 7](https://docs.lightfunnels.com/content/images/2021/07/image-38.png)
+
+Page Builder Top Bar
+
+The top bar has several tools that help you when building funnel pages. Let's go over them from left to right.
+
+*   The arrow icon takes you back to the funnel builder or to the page where you came from
+*   The left arrow take you to the funnel pages that are connected the current page page from the left.
+*   The dropdown with the page name lets you access any page on the funnel.
+*   The right arrow take you to the funnel pages that are connected the current page page from the right.
+*   The product dropdown lets you change the product that this page is pulling data from.
+*   The `Edit Product` icon lets you edit the connected product without navigating away from this page. You can learn more about this in [Data Binding](https://docs.lightfunnels.com/data-binding/).
+*   The eye icon hides the sidebar and the X-Ray and lets preview the page without leaving the builder. Note that some functionality may not be available in this preview mode. If you want to preview the page behavior, click the `Save` button then the `Preview` button at the top right of the page.
+*   The devices icons let you preview the look of your page in different device types. Learn more on how you can edit your pages for different devices under [Responsiveness](https://docs.lightfunnels.com/responsiveness/).
+*   The undo and redo icons are self explanatory. Simply click them to undo and redo your actions. You can also use the keyboard shortcuts `CMD or CTRL + Z` to undo and `CMD or CTRL + Shift + Z` to redo.
+*   The X-Ray icon lets you show and hide an outline around elements in the page. This is can be handy if you are not sure how an element is positioned on your page.
+*   The Popups button opens a menu that lets you manage your funnel popups. You can then link your buttons to the popups that you create here.
+*   The Preview button lets you preview your page in a new tab. Make sure you save your funnel before clicking Preview.
+*   The Save button saves your funnel.
+
+Content Area[](#content-area)
+-----------------------------
+
+![Image 8](https://docs.lightfunnels.com/content/images/2021/07/image-39.png)
+
+Page Builder Content Area
+
+The content area is where you build your page. It is a real time representation of what your page will look like once published.
+
+You can drag and drop elements around. Double click texts to edit them or select elements and change their settings on the sidebar.
+
+Once you select an element, you have the option to select its parents, select the nearest parent, drag it, duplicate it or delete it. You can also drag any element around by directly clicking on it without using the menu.
+
+![Image 9](https://docs.lightfunnels.com/content/images/2021/07/image-40.png)
+
+On the next page we'll go over the different types of elements that make up your pages.

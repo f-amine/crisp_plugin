@@ -1,0 +1,24 @@
+Title: Clarity Integration
+
+URL Source: https://docs.lightfunnels.com/clarity-integration/
+
+Published 
+
+Markdown Content:
+Clarity is a free, easy-to-use tool that captures how real people actually use your site. Setting up Clarity on Lightfunnels is easy and you'll start getting data in minutes.
+
+Follow these steps to get Clarity setup on your Lightfunnels account.
+
+1.  Go to your Clarity account -> Settings -> Overview and copy the Project ID
+2.  Log in to your Lightfunnels account and go to the Apps tab
+3.  Look for the Clarity app and click Install then open the app
+4.  Paste the project ID and click install
+5.  You're all set!
+
+![Image 1](https://docs.lightfunnels.com/content/images/2022/04/image-5.png)
+
+Copy your Project ID
+
+![Image 2](https://docs.lightfunnels.com/content/images/2022/04/image-4.png)
+
+Paste your Project ID and click Install

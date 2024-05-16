@@ -1,0 +1,64 @@
+Title: Order Email Updates App
+
+URL Source: https://docs.lightfunnels.com/order-email-updates-app/
+
+Published 
+
+Markdown Content:
+Introduction[](#introduction)
+-----------------------------
+
+The Order Email Updates app is a powerful tool that allows you to add a sequence of emails and send them for various order-related events such as Order Confirmation, Order Refund, Order Canceled, and Order Fulfillment. With this app, you can easily keep your customers informed about their orders. It is suitable for both funnels and online stores, providing flexibility and customization options.
+
+Features[](#features)
+---------------------
+
+1.  Email Sequence Management: You can create and manage sequences of emails for different order events, enabling you to effectively communicate with your customers throughout the order process.
+2.  Customization: Each email in the sequence can be fully customized according to your specific requirements. You have the freedom to personalize the content, formatting, and design of each email, ensuring a unique and tailored communication experience.
+3.  Multiple Funnels/Stores: The app allows you to set the email sequence for one or more funnels or online stores. This functionality allows you to manage different sequences for different sales channels, providing targeted messaging to your customers.
+
+Getting Started[](#getting-started)
+-----------------------------------
+
+Go to the apps area search "Order Email Updates" and click on Install
+
+![Image 1](https://docs.lightfunnels.com/content/images/2023/06/image-1.png)
+
+Now that you installed the app, click on new sequence give it a name and assign the funnels and stores you want to use with this sequence
+
+![Image 2](https://docs.lightfunnels.com/content/images/2023/06/image.png)
+
+Click on "Add email" then select the template you want to customize (e.g., Order Confirmation).
+
+![Image 3](https://docs.lightfunnels.com/content/images/2023/06/image-2.png)
+
+Edit the email subject and body to your desired content.
+
+Use template variables to dynamically insert order-specific information (e.g., order number, customer name).
+
+Save the changes to the template
+
+Email configuration[](#email-configuration)
+-------------------------------------------
+
+To allow Lightfunnels to send emails on your behalf, you need to add these 2 TXT records to your DNS settings.
+
+Under your DNS records, add the following:
+
+| Type | Name | Value |
+| --- | --- | --- |
+| TXT | domain.com | v=spf1 a mx include:relay.mailchannels.net ~all |
+| TXT | \_mailchannels | v=mc1 cfid=mylightfunnels.workers.dev |
+
+#### ⚠️ IMPORTANT
+
+If you already have an SPF record, simply add `include:relay.mailchannels.net` to this entry. Make sure to add it BEFORE the “all” mechanism as “all” always matches and typically goes at the end of the SPF record.
+
+That's it! Now you should be able to set the `Order Email Updates` app to send emails from your own domain.
+
+Conclusion[](#conclusion)
+-------------------------
+
+The Order Email Updates app simplifies the process of sending automated and customized email notifications for various order-related events. By following the instructions in this documentation, you can install, configure, create email sequences, customize email templates, test, and manage the app effectively. If you have any questions or need further assistance, please refer to the app's documentation or contact the support team.
+
+**HAPPY SELLING** （✿ ͡◕ ᴗ◕)つ━━✫・\*。💸💸💸💸💸

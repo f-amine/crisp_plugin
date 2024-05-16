@@ -1,0 +1,52 @@
+Title: Setting up Split Tests
+
+URL Source: https://docs.lightfunnels.com/split-tests/
+
+Published 
+
+Markdown Content:
+A Split Test, also known as an A/B test, is an experiment for determining which of different variations of a page performs better by presenting each version to users at random and analyzing the results.
+
+Running Split Tests has a lot of advantages like improving user engagement, reducing the bounce rate and most importantly, increasing conversion rates.
+
+Creating a Split Test[](#creating-a-split-test)
+-----------------------------------------------
+
+To create a Split Test in LightFunnels, open your funnel, click the + icon at the bottom right corner and choose Split Test to add a Split Test node.
+
+![Image 1](https://docs.lightfunnels.com/content/images/2021/07/image-20.png)
+
+Adding a Split Test node
+
+You can set the number of variations that you would like to have by clicking `Add new variation`.
+
+![Image 2](https://docs.lightfunnels.com/content/images/2021/07/image-21.png)
+
+Split Test Node
+
+Connecting the Split Test Node[](#connecting-the-split-test-node)
+-----------------------------------------------------------------
+
+Now that you have created a split test node, you need to connect each variation to its page.
+
+Let's duplicate the Product Page to create two variations then link the split test to them.
+
+![Image 3](https://docs.lightfunnels.com/content/images/2021/07/split-3.gif)
+
+Measuring Performance[](#measuring-performance)
+-----------------------------------------------
+
+Now that your Split Test is setup, you can start sending traffic through your funnel. The split test will register how many visits each variation has received and the conversion rate from conversions that resulted through that variation.
+
+![Image 4](https://docs.lightfunnels.com/content/images/2021/07/image-22.png)
+
+Split Test with a winning variation
+
+Automatically Selecting the Winning Variation[](#automatically-selecting-the-winning-variation)
+-----------------------------------------------------------------------------------------------
+
+You  can set the Split Test to automatically select your winning variation after a number of visits was reached. To do that, simply check the `Auto choose winner` checkbox and enter how many visits you would like to receive before deciding what the winning variation is.
+
+![Image 5](https://docs.lightfunnels.com/content/images/2021/07/image-23.png)
+
+Winning variation was automatically chosen after 2000 visits

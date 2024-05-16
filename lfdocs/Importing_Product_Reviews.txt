@@ -1,0 +1,23 @@
+Title: Importing Product Reviews
+
+URL Source: https://docs.lightfunnels.com/importing-product-reviews/
+
+Published 
+
+Markdown Content:
+If you are starting a new product promotion, reviews for that product may already be available elsewhere on the internet.
+
+That's why we made it possible for you to import reviews in one click.
+
+We currently support reviews from AliExpress.
+
+To import reviews:
+
+1.  Choose `Products`, click `Reviews` then `Import`.
+2.  Select a product to import reviews for
+3.  Paste the AliExpress product link
+4.  Choose the language, images and rating filters
+5.  Select the reviews you would like to import
+6.  Click import
+
+Your reviews are now imported and you can see them on your product.

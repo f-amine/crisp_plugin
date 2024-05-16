@@ -1,0 +1,34 @@
+Title: Order Fulfillment
+
+URL Source: https://docs.lightfunnels.com/order-fulfillment/
+
+Published 
+
+Markdown Content:
+Understanding how orders work in LightFunnels is an important part of running your business. After a customer places an order, it appears in the Orders area of your account.
+
+Whenever a new order comes in, you need to prepare and deliver its items . This process is referred to as order fulfillment. You can fulfill products in bulk to save time or manually through the UI.
+
+Fulfilling Orders in Bulk[](#fulfilling-orders-in-bulk)
+-------------------------------------------------------
+
+Bulk fulfillment is an fast way to fulfill multiple orders at the same time. The process is very simple.
+
+1.  Go to Orders and click `Export Orders`. Choose the orders that you want to export and you'll receive an orders CSV file in your email.
+2.  You can open the CSV file in Microsoft Excel or Google Sheets
+3.  Populate the tracking number, tracking link and any other info you would like to update
+4.  Go back to Orders and choose Sync Orders then upload the updated CSV file
+
+Fulfilling Products Manually[](#fulfilling-products-manually)
+-------------------------------------------------------------
+
+You can fulfill orders manually by going inside an order and clicking `Mark as Fulfilled`.
+
+Choose the products that you would like to fulfill and if you have a tracking number and a tracking link add them. You can also choose a shipping carrier.
+
+Click `Fulfill items` to finish.
+
+Fulfilling Digital Products[](#fulfilling-digital-products)
+-----------------------------------------------------------
+
+Digital products are automatically marked as fulfilled.

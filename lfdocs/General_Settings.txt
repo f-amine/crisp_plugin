@@ -1,0 +1,47 @@
+Title: General Settings
+
+URL Source: https://docs.lightfunnels.com/general-settings/
+
+Published 
+
+Markdown Content:
+Under general settings, you can edit your account related information such as the account name, email addresses and currency.
+
+Account[](#account)
+-------------------
+
+### Account name and image[](#account-name-and-image)
+
+Your account name and image are for internal use only. They allow you to identify your account among the list of accounts that you have access to.
+
+### Emails[](#emails)
+
+#### Account Owner's Email
+
+LightFunnels team will use this email if they need to contact you.
+
+#### Customers From Email
+
+The email from which your customers will receive your LightFunnels emails such as order confirmation or abandoned checkout emails.
+
+Address[](#address)
+-------------------
+
+This is your business or personal address to use in your invoices and emails.
+
+Time zone[](#time-zone)
+-----------------------
+
+The time zone in which your account will operate. This mainly impacts your tracking and analytics.
+
+Account Currency[](#account-currency)
+-------------------------------------
+
+The currency that your account will use to charge your customers.
+
+You cannot change this currency after you have made your first order.
+
+Currency Conversion[](#currency-conversion)
+-------------------------------------------
+
+These are the currencies that will appear on your funnels' settings and will be visible to your visitors. These options will be used on the currency converter on your storefront.

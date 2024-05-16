@@ -1,0 +1,14 @@
+Title: Managing Contacts
+
+URL Source: https://docs.lightfunnels.com/managing-contacts/
+
+Published 
+
+Markdown Content:
+Your customers and leads are added to your account as contacts. To access your contacts, click the `Contacts` tab on the sidebar.
+
+The `All Contacts` page shows a list of all customers and leads. You can click a contact to get more information about that person.
+
+Contacts can be customers if they have at least one order or leads if they have just subscribed by submitting their personal information.
+
+Using [integrations](https://docs.lightfunnels.com/integrations/), you can automatically sync your new contacts with third party providers like email services or webinar platforms.

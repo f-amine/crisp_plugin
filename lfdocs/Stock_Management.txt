@@ -1,0 +1,45 @@
+Title: Stock Management
+
+URL Source: https://docs.lightfunnels.com/lightfunnels-stock-management-documentation/
+
+Published 
+
+Markdown Content:
+Overview[](#overview)
+---------------------
+
+Lightfunnels introduces a Stock Management feature, designed to manage inventory for products and their variants, ensuring customers can only purchase items available in stock.
+
+How does it work?[](#how-does-it-work)
+--------------------------------------
+
+### Enabling Stock Management[](#enabling-stock-management)
+
+![Image 1](https://docs.lightfunnels.com/content/images/2023/10/image.png)
+
+Navigate to your product settings and scroll to find the "stock control" option. Enable it and input the available items in stock for the product.
+
+### Managing Stock for Product Variants[](#managing-stock-for-product-variants)
+
+![Image 2](https://docs.lightfunnels.com/content/images/2023/10/image-1.png)
+
+For products with variants, stock management must be set at the variant level. Go to the variants section, enable stock management for each variant, and specify the available items.
+
+Bulk Editing of Variants
+
+If you have multiple variants and want to edit their stock simultaneously, select the variants, click "edit," and adjust the stock levels or disable stock management as needed.
+
+### Customer Experience with Stock Management[](#customer-experience-with-stock-management)
+
+![Image 3](https://docs.lightfunnels.com/content/images/2023/10/Animation.gif)
+
+Ensure that the stock levels for all products and variants are accurate. On the storefront, customers should only be able to select variants that are available in stock.
+
+Conclusion[](#conclusion)
+-------------------------
+
+Maintaining accurate stock levels ensures a smooth and reliable shopping experience for your customers. Regularly update your inventory levels to make the most of this feature.
+
+For a detailed walkthrough and visual guide on how to use the Stock Management feature, you can watch the tutorial video [here](https://www.youtube.com/watch?v=JFeEI57uEvY).
+
+**Happy Selling 💸💸💸**

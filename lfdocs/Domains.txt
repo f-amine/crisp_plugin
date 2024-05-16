@@ -1,0 +1,66 @@
+Title: Domains
+
+URL Source: https://docs.lightfunnels.com/domains/
+
+Published 
+
+Markdown Content:
+Connecting your domain name to LightFunnels allows you to hide the lightfunnels branding from your storefront, making your pages look more professional.
+
+To add a custom domain name, make sure you register your domain name at a domain registrar such as [Namecheap](https://www.namecheap.com/), [GoDaddy](https://www.godaddy.com/) or any domain name service of your choice.
+
+Once done, go to your LightFunnels settings and choose Domains.
+
+Click `Add Custom Domain` then enter your domain name or subdomain.
+
+Now you need to edit your domain name's DNS records so that your root domain name ( e.g. yourwebsite.com ) or subdomain name ( e.g. funnels.yourwebsite.com ) points to your LightFunnels account.
+
+Setting up your root domain ( yourwebsite.com )[](#setting-up-your-root-domain-yourwebsitecom)
+----------------------------------------------------------------------------------------------
+
+### Step 1. Set your www DNS record:[](#step-1-set-your-www-dns-record)
+
+1.  Log in to your domain name service
+2.  Choose your domain name
+3.  Look for the DNS settings
+4.  You need to add the following DNS settings.
+
+| Type | Name | Value |
+| --- | --- | --- |
+| CNAME | www | shop.mylightfunnels.com |
+
+If a DNS setting with the same name and type already exists, you will need to update its value. Now your main domain (www.yourwebsite.com) is setup.
+
+### Step 2. Redirect your root domain to www[](#step-2-redirect-your-root-domain-to-www)
+
+The second step is adding a redirection from your root domain (website.com) to your www.
+
+Look for the redirection option in your domain settings and set up a redirection from website.com to www.website.com.
+
+If you are asked which type of redirection you want to do, choose 301 permanent redirect.
+
+#### Here are some domain redirection help links for the most popular registrars.
+
+*   [Godaddy](https://au.godaddy.com/help/forward-my-domain-12123)
+*   [Namecheap](https://www.namecheap.com/support/knowledgebase/article.aspx/385/2237/how-to-redirect-a-url-for-a-domain/)
+*   [Domain.com](https://www.domain.com/help/article/how-to-create-a-301-redirect)
+*   [Bluehost](https://www.bluehost.com/help/article/redirecting-web-page)
+*   [Dynadot](https://www.dynadot.com/community/forums/f3-web-hosting/301-permanent-redirect-available-1723.html)
+
+Setting up your subdomain ( go.yourwebsite.com )[](#setting-up-your-subdomain-goyourwebsitecom)
+-----------------------------------------------------------------------------------------------
+
+If you want to only point a subdomain to your LightFunnels account, without changing your main domain, login to your domain name service then go to the DNS settings of your domain and add a CNAME like this:
+
+| Type | Name | Value |
+| --- | --- | --- |
+| CNAME | funnels | shop.mylightfunnels.com |
+
+This will result in a subdomain like `funnels.yourwebsite.com`. You can change "funnels" to any subdomain that you want.
+
+Verify your domain on LightFunnels[](#verify-your-domain-on-lightfunnels)
+-------------------------------------------------------------------------
+
+Go back to your account and go Settings -> Domains then click verify next to your domain name.
+
+Keep in mind that the DNS propagation can take from a few minutes to 72 hours. So your changes may or may not appear on LightFunnels right away.

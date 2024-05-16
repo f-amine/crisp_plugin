@@ -1,0 +1,58 @@
+Title: Shopify Integration
+
+URL Source: https://docs.lightfunnels.com/shopify-integration/
+
+Published 
+
+Markdown Content:
+Overview:[](#overview)
+----------------------
+
+The Lightfunnels and Shopify integration allows Lightfunnels you to seamlessly connect your Lightfunnels store with your Shopify store. This integration enables you to continue using your favorite Shopify apps while synchronizing orders from your Lightfunnels store to your Shopify store. This document provides step-by-step instructions on how to set up the integration.
+
+#### Prerequisites:
+
+Before proceeding with the integration, ensure that you have the following:
+
+1.  A Lightfunnels account: Sign up for an account at lightfunnels.com if you don't have one already.
+2.  A Shopify account: Create a Shopify store at shopify.com if you haven't done so yet.
+
+Getting Started[](#getting-started)
+-----------------------------------
+
+### Step 1: Install the Shopify App[](#step-1-install-the-shopify-app)
+
+1.  Log in to your Lightfunnels account.
+2.  Navigate to the "Apps" area within Lightfunnels.
+3.  Locate the Shopify app and click on install
+
+![Image 1](https://docs.lightfunnels.com/content/images/2023/05/image-80.png)
+
+### Step 2: Connect Your Shopify Store[](#step-2-connect-your-shopify-store)
+
+1.  After installing the Shopify app, click on "Connect Shopify Store" to initiate the setup process.
+2.  Provide the following information:
+
+*   Shopify store URL: Enter the URL of your Shopify store (e.g., yourstorename.myshopify.com).
+*   Access Token: Obtain the access token from your Shopify account.
+*   App Secret: Enter the App Secret associated with your Shopify store. This is required for authentication purposes.
+
+![Image 2](https://docs.lightfunnels.com/content/images/2023/05/image-81.png)
+
+_Note: Please check the following [video tutorial](https://youtu.be/ffG-aH5VcAM?t=68) on how to get **Access Token** and **App Secret**_
+
+Once you have entered the required information, click on "Connect" or a similar button to establish the connection.
+
+### Additional Notes:[](#additional-notes)
+
+*   The integration allows you to leverage your preferred Shopify apps while managing your Lightfunnels store.
+*   Orders from your Lightfunnels store will be synced to your Shopify store, streamlining your order management process.
+*   If you encounter any issues during the integration setup, refer to the Lightfunnels documentation or contact our support team for assistance.
+*   Shopify does not charge any fees for these orders. This is because the orders are created through import using the API, and Shopify does not apply fees to orders created in this manner.
+
+Conclusion:[](#conclusion)
+--------------------------
+
+By integrating Lightfunnels with Shopify, you can seamlessly connect your Lightfunnels store with your Shopify store, enabling you to continue using your favorite Shopify apps and syncing orders effortlessly. Follow the provided steps and video tutorial to set up the integration successfully. Should you have any questions or concerns, feel free to reach out to the Lightfunnels support team for further assistance.
+
+**Happy selling!** 💸💸💸

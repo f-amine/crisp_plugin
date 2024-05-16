@@ -1,0 +1,55 @@
+Title: Responsiveness
+
+URL Source: https://docs.lightfunnels.com/responsiveness/
+
+Published 
+
+Markdown Content:
+With over 60% of visitors coming from mobile devices, your pages should be 100% mobile friendly.
+
+LightFunnels was built from the ground up with the mobile experience in mind. Not only you can easily build mobile responsive designs, but also, your pages are optimized to load fast, even on slow mobile data networks.
+
+To create a responsive layout, we recommend you use the Rows and Columns layout that we covered on the [Page Structure and Layouts](https://docs.lightfunnels.com/elements-layout/) page.
+
+TLDR.[](#tldr)
+--------------
+
+In order to create a mobile responsive design:
+
+1.  Create your design on desktop
+2.  Switch to tablet and make the changes you only want for tablets
+3.  Switch to mobile and make the design changes you only want on mobile
+
+Once done you will see that your design looks the way you want it on all devices.
+
+Make a Desktop Design Mobile Friendly[](#make-a-desktop-design-mobile-friendly)
+-------------------------------------------------------------------------------
+
+Let's take a section that has two columns of 6 width each.
+
+![Image 1](https://docs.lightfunnels.com/content/images/2021/07/image-58.png)
+
+Two columns layout looking good on desktop
+
+This layout was built for desktop devices. Let's preview it on mobile.
+
+![Image 2](https://docs.lightfunnels.com/content/images/2021/07/image-59.png)
+
+The layout already looks decent on mobile but we can still add some adjustments to it. We will do the following adjustments.
+
+*   Fix the border radius around the image
+*   Reduce the headline text size
+*   Reduce the image size
+*   Reduce the padding around the text.
+
+![Image 3](https://docs.lightfunnels.com/content/images/2021/07/image-66.png)
+
+Now the section is easily readable on mobile.
+
+You can also hide / show elements on different device sizes using the visibility option on each element.
+
+This will hide an element on mobile landscape and portrait modes.
+
+![Image 4](https://docs.lightfunnels.com/content/images/2021/07/image-67.png)
+
+Going back to desktop, we can see that our layout did not change. The page is now optimized for both mobile and desktop.

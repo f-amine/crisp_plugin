@@ -1,0 +1,20 @@
+Title: Product Reviews
+
+URL Source: https://docs.lightfunnels.com/product-reviews/
+
+Published 
+
+Markdown Content:
+Reviews are one of the best ways to raise social proof for your products and increase your conversion rates.
+
+You can access your reviews by going to `Products` on the sidebar then choosing `Reviews`. Here you can see all the reviews you have on your account. You can use the dropdown at the top to filter reviews by product.
+
+Adding a Review[](#adding-a-review)
+-----------------------------------
+
+To add a review, click `Add Review`, select a product and fill the form with the review data.
+
+Editing or Deleting a Review[](#editing-or-deleting-a-review)
+-------------------------------------------------------------
+
+To edit a review, click on the review content. A review modal will appear. Here you can edit the form and save or completely delete the review.

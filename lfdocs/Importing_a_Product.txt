@@ -1,0 +1,16 @@
+Title: Importing a Product
+
+URL Source: https://docs.lightfunnels.com/importing-a-product/
+
+Published 
+
+Markdown Content:
+If you already have a product on your Shopify store or would like to use a product from AliExpress, you can easily import your products to LightFunnels.
+
+To import a product, go to `Products` on the sidebar then click `Import`.
+
+Copy the product page link from Shopify or AliExpress and paste it in the box then click `Import`.
+
+The product will then be imported with its title, description, images and variants.
+
+You can also [import AliExpress reviews](https://docs.lightfunnels.com/importing-product-reviews/).

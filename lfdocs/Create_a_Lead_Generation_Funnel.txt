@@ -1,0 +1,38 @@
+Title: Create a Lead Generation Funnel
+
+URL Source: https://docs.lightfunnels.com/create-a-lead-generation-funnel/
+
+Published 
+
+Markdown Content:
+Let's create a lead generation funnel to collect emails or phone numbers from your prospects and build a list of leads.
+
+When creating the funnel, feel free to open any page to edit it in the Page Builder.
+
+Creating a New Funnel[](#creating-a-new-funnel)
+-----------------------------------------------
+
+To create a new funnel, click on `Funnels` on the sidebar then on `New Funnel`.
+
+Choose to `Collect Leads`.
+
+![Image 1](https://docs.lightfunnels.com/content/images/2021/07/image-19.png)
+
+Lead Gen Funnel Creation
+
+Choose a theme for your funnel then click `Create my Funnel`.
+
+Enter a name for your funnel and a URL then click `Open the Funnel`.
+
+You have now created a funnel and opened it in the funnel builder.
+
+A lead generation funnel is composed of a Squeeze Page and a Thank You page. A common practice is to have a Squeeze Page in front of an e-commerce funnel.
+
+Now you can open each page in the [Page Builder](https://docs.lightfunnels.com/tag/page-builder/) to edit it to your liking.
+
+Recommendations[](#recommendations)
+-----------------------------------
+
+*   Learn more about building pages in the [Page Builder section](https://docs.lightfunnels.com/tag/page-builder/)
+*   Learn about [Split Tests](https://docs.lightfunnels.com/split-tests/)
+*   Learn how to setup a [e-commerce funnel](https://docs.lightfunnels.com/ecommerce-funnel/)

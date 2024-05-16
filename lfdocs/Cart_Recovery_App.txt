@@ -1,0 +1,40 @@
+Title: Cart Recovery App
+
+URL Source: https://docs.lightfunnels.com/cart-recovery-app/
+
+Published 
+
+Markdown Content:
+### Introduction:[](#introduction)
+
+Cart Recovery is a powerful Lightfunnels app that allows you to create email sequences and link them to your funnel(s). With this app, you can recover lost sales by sending personalized emails to customers who have abandoned their shopping carts.
+
+### Installation:[](#installation)
+
+To get started, you need to install the Cart Recovery app from the Lightfunnels app store. Once you have installed the app, you will be able to create a new sequence.
+
+![Image 1](https://docs.lightfunnels.com/content/images/2023/03/image-7.png)
+
+### Creating a Sequence:[](#creating-a-sequence)
+
+To create a new sequence, click on the "New Sequence" button. You will be prompted to give your sequence a name and select the funnel(s) you want to use with the sequence.
+
+![Image 2](https://docs.lightfunnels.com/content/images/2023/03/image-8.png)
+
+### Email Builder:[](#email-builder)
+
+Once you have created your sequence, you will be redirected to the email builder where you can customize your emails. You can use the drag and drop builder or premade templates to create your emails.
+
+![Image 3](https://docs.lightfunnels.com/content/images/2023/03/image-9.png)
+
+### Adding Emails:[](#adding-emails)
+
+You can add as many emails as you want to your sequence. Simply click on the "Add Email" button and create a new email. You can also set the time you want your email to be sent by using the email scheduling feature.
+
+![Image 4](https://docs.lightfunnels.com/content/images/2023/03/image-10.png)
+
+For more info click [here](https://youtu.be/V2j5qJjEavo)
+
+### Conclusion:[](#conclusion)
+
+With the Cart Recovery app, you can recover lost sales and increase your revenue by sending personalized emails to customers who have abandoned their shopping carts. The app is easy to use and integrates seamlessly with Lightfunnels. Try it out and see the results for yourself!

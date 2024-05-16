@@ -1,0 +1,56 @@
+Title: Security Layers
+
+URL Source: https://docs.lightfunnels.com/security-documentation/
+
+Published 
+
+Markdown Content:
+### Overview[](#overview)
+
+At Lightfunnels, we take your security seriously. We understand that online businesses like yours can face threats from fake orders, automated bots, and malicious actors. To ensure a safe and secure environment for you, we have implemented several security layers and features. In this document, we'll explain how these features work to protect you and your online store.
+
+### Blocked Countries List[](#blocked-countries-list)
+
+**What it does for you:**  
+With the Blocked Countries List, you can prevent visitors from specific countries from accessing your pages. This feature helps you control who can view and purchase from your online store, reducing the risk of fraudulent activities from certain geographic locations.
+
+![Image 1](https://docs.lightfunnels.com/content/images/2023/10/image-3.png)
+
+### Blocked Customer IPs[](#blocked-customer-ips)
+
+**What it does for you:**  
+Blocked Customer IPs allow you to restrict access to your pages for visitors with specific IP addresses. This helps you block known malicious IPs and provides an additional layer of protection against unauthorized access.
+
+![Image 2](https://docs.lightfunnels.com/content/images/2023/10/image-4.png)
+
+### Support Access[](#support-access)
+
+**What it does for you:**  
+Support Access allows us at Lightfunnels to temporarily access your account for troubleshooting or content recovery purposes. You maintain control over when this access is granted and can revoke it at any time. This feature ensures that you receive the assistance you need without compromising your security.
+
+![Image 3](https://docs.lightfunnels.com/content/images/2023/10/image-5.png)
+
+### CAPTCHA[](#captcha)
+
+**What it does for you:**  
+CAPTCHA is a powerful tool that prevents automated bots and malicious actors from accessing your funnel or store. When enabled, it adds an extra layer of verification during the login or checkout process, making it much harder for bots to operate on your platform.
+
+![Image 4](https://docs.lightfunnels.com/content/images/2023/10/image-6.png)
+
+### Max Items Per Order[](#max-items-per-order)
+
+**What it does for you:**  
+Max Items Per Order lets you set a maximum limit on the number of items that can be included in a single order. This feature is particularly valuable for Cash on Delivery sellers, as it helps prevent fake orders and allows you to maintain better control over your sales and associated fees.
+
+![Image 5](https://docs.lightfunnels.com/content/images/2023/10/image-7.png)
+
+### Min Delay Between Cash on Delivery Orders[](#min-delay-between-cash-on-delivery-orders)
+
+**What it does for you:**  
+Min Delay Between Cash on Delivery Orders enables you to specify the minimum time interval that must pass before a second order from the same IP address is allowed. This helps protect Cash on Delivery sellers from potential fake orders, ensuring that each order is legitimate and reducing the risk of fraud.
+
+![Image 6](https://docs.lightfunnels.com/content/images/2023/10/image-8.png)
+
+By implementing these security features, Lightfunnels empowers you to create a safer online shopping experience for your customers while safeguarding your business from various threats. We believe that a secure environment is essential for your success, and we are committed to providing you with the tools and support you need to achieve it.
+
+**Happy selling 💸💸💸**

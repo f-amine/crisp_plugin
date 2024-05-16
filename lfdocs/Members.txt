@@ -1,0 +1,12 @@
+Title: Members
+
+URL Source: https://docs.lightfunnels.com/members/
+
+Published 
+
+Markdown Content:
+In this area of your account settings, you can invite your team members to your account and grant them different permissions or revoke their access to your account.
+
+To add a member, click `Add Member` then enter their email address and check the permissions you would like to grant them.
+
+Your invited team member will receive an email invitation that they can accept or decline.

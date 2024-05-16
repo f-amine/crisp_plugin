@@ -1,0 +1,24 @@
+Title: Discounts
+
+URL Source: https://docs.lightfunnels.com/discounts/
+
+Published 
+
+Markdown Content:
+You can offer discount codes to your customers and prospects.
+
+To create a discount, click on `Discounts` then `New Discount`.
+
+`Code` - You can generate a random code automatically or enter a custom code.
+
+`Type` - Whether the discount will reduce the price by a percentage or by a fixed amount
+
+`Set start and end dates` - The date range during which this discount will be valid.
+
+`Limit discount` - Limit the number of times the discount can be used.
+
+`One time usage per user` - Only allow the discount to be used once by customer identified by their email and / or phone number.
+
+Click `Save`.
+
+You can now share the code with your customers via emails or ads.

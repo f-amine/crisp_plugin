@@ -1,0 +1,12 @@
+Title: Integrations
+
+URL Source: https://docs.lightfunnels.com/integrations/
+
+Published 
+
+Markdown Content:
+Integrations allow you to sync your order and customer data with third party services such as email marketing or webinar platforms.
+
+Go to [Integrations](https://docs.lightfunnels.com/tag/integrations/) for a list of supported integrations.
+
+We are constantly adding new integrations every month.

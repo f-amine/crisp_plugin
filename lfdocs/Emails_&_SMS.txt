@@ -1,0 +1,38 @@
+Title: Emails & SMS
+
+URL Source: https://docs.lightfunnels.com/emails/
+
+Published 
+
+Markdown Content:
+Email and SMS settings allow you to edit the emails and SMS messages that are automatically sent to your customers from LightFunnels.
+
+Order Emails[](#order-emails)
+-----------------------------
+
+You can edit the following emails
+
+*   Order Confirmation Email
+*   Order Cancelled Email
+*   Order Refund Email
+*   Order Fulfillment Email
+
+The emails are in HTML format. Locate the texts that you want to change and make the modifications. If you make a mistake, you can always reset the template by clicking the `Reset Template` button.
+
+Abandoned Checkouts Emails[](#abandoned-checkouts-emails)
+---------------------------------------------------------
+
+Abandoned Checkouts Emails are sent after a delay when an [Abandoned Checkout](https://docs.lightfunnels.com/abandoned-checkouts/) is created. They allow you to recover an abandoned checkout by sending the customer a link to complete their payment.
+
+You can send up to 3 emails to remind the customer to complete their purchase.
+
+Each email as its own analytics.
+
+*   Sent - How many times this email was sent.
+*   Recovered - How many checkouts this email has recovered.
+*   Conversion Rate - The percentage of times this email was successful at recovering a customer.
+
+Abandoned Checkouts SMS[](#abandoned-checkouts-sms)
+---------------------------------------------------
+
+Just like Abandoned Checkouts Emails, Abandoned Checkouts SMS uses the customer's phone number to send them up to 3 checkout recovery SMS messages.

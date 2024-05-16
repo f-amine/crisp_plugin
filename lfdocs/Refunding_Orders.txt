@@ -1,0 +1,16 @@
+Title: Refunding Orders
+
+URL Source: https://docs.lightfunnels.com/refunding-orders/
+
+Published 
+
+Markdown Content:
+To issue a refund, open the order and click `Refund`.
+
+Choose the number of items you would like to refund from each line item.
+
+The amount to refund will be automatically calculated for you. You can edit the amount to your liking.
+
+Optionally add a refund reason and choose whether you want to notify the customer via email or not. Then click the `Refund` button.
+
+Your order is now refunded.

@@ -1,0 +1,41 @@
+Title: How to connect PayPal to Lightfunnels?
+
+URL Source: https://docs.lightfunnels.com/paypal/
+
+Published 
+
+Markdown Content:
+### Introduction:[](#introduction)
+
+PayPal stands as a globally renowned payment platform, offering businesses a secure and efficient way to handle online transactions. By integrating PayPal with Lightfunnels, you can provide your customers with a trusted payment method, ensuring seamless and reliable transactions. This guide elucidates the steps required to integrate PayPal into your Lightfunnels setup.
+
+### Steps to Set Up PayPal on Lightfunnels:[](#steps-to-set-up-paypal-on-lightfunnels)
+
+#### Getting Started with PayPal:
+
+*   If you don't already have a PayPal account, [sign up for a new account here](https://developer.paypal.com/home).
+*   After registration and logging into your PayPal account, you're set to integrate it with Lightfunnels.
+*   Head to your Lightfunnels dashboard.
+*   Select `Settings`.
+*   Opt for `Payment Gateways`.
+
+**Connecting PayPal:**
+
+*   Within the `Payment Gateways` section, you'll find an option to `Connect PayPal Account`. Click on it.
+*   This action will redirect you to PayPal's authentication page. Here, grant the necessary permissions to link PayPal with Lightfunnels.
+*   Return to the `Payment Gateways` section in Lightfunnels.
+*   Click on `Add Payment Gateway`.
+*   From the list of available gateways, select `PayPal`.
+
+![Image 1](https://docs.lightfunnels.com/content/images/2023/09/image-9.png)
+
+**Linking PayPal to Your Funnel or Store:**
+
+*   Navigate to the specific funnel or store within Lightfunnels that you wish to associate with PayPal.
+*   Ensure to link it with PayPal so that all transactions made through this funnel or store are processed via your PayPal account.
+
+![Image 2](https://docs.lightfunnels.com/content/images/2023/09/image-10.png)
+
+Watch the video below for a step-by-step guide on setting up PayPal with Lightfunnels.
+
+**Happy Selling  💸 💸 💸 💸**

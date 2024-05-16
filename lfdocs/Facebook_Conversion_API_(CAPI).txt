@@ -1,0 +1,66 @@
+Title: Facebook Conversion API (CAPI)
+
+URL Source: https://docs.lightfunnels.com/facebook-conversion-api-capi/
+
+Published 
+
+Markdown Content:
+Bypass browser limitations or ad blockers and get more accurate data to ensure that your ads reach their target audience.
+
+What is it?[](#what-is-it)
+--------------------------
+
+Facebook’s CAPI allows you to send pixel events directly to servers, bypassing browser limitations or ad blockers. This means that you can get more accurate data on your website’s traffic and conversions, and create better ads that are more likely to reach your target audience.
+
+*   Note: Please be advised that your Lightfunnels statistics and Facebook data might not match up. Tracking platforms frequently employ diverse technologies and methodologies, which results in disparities.  
+    
+
+How to configure CAPI with Lightfunnels?[](#how-to-configure-capi-with-lightfunnels)
+------------------------------------------------------------------------------------
+
+### Step 1[](#step-1)
+
+Go to Events Manager  
+Select the pixel you want to configure and click on Settings.  
+Scroll down to “Conversion API” and click on “Generate Access Token”.  
+Copy the token.
+
+![Image 1](https://lh5.googleusercontent.com/FfBlUg9cehpCVBtfiIResyTteiEC33qZrqXohHvQygbWhb7QFGjrOpMhO4fj9iazsoZ9vSGvcSKVXVqjEPjugqKYi_gTkf2mmhFwbBwWJ-BejP5jLTWClzlBEpWbTNbEpTO-eKmiBOOK0rWvteMFW9RYinhPNfvdugb_6IJkN07gq0n0091qDV9QeQ)
+
+### Step 2[](#step-2)
+
+Log in to your Lightfunnels account  
+Go to settings >> tracking  
+Click on "Connect Facebook Conversion API
+
+![Image 2](https://lh3.googleusercontent.com/ZvdDIf0HafgFnXN3zLsFNYP0N0ijpt7zk9h4pZHPIudmp2Po-Xd_QLO-kf524FVd08LXRVWlVrnGSLTs7ga-XZ-wlcLzBlYyZlOZcdwJ8gBYx0bP5S9Vzf3W5RzcdMZtirnfiHmXdHkc_YxUvIjCcHARtsNeZ3FhXHPCI_TppLPMqRFKOC3iKKVv1w)
+
+Add a label to your API token.  
+Paste the token  
+Check the pixels you want to add to your CAPI.  
+The final step click on ADD
+
+![Image 3](https://docs.lightfunnels.com/content/images/2022/09/304792873_805180110636047_6731993141855579776_n.png)
+
+*   Note: Any cache or cookies that might be hung up on your browser should be removed Lightfunnels will start to send CAPI events along with the browser events.
+*   Note: Please make sure you have your pixel added in the classic Facebook pixels section here, as this is what you will use in your Funnels settings  
+    
+
+![Image 4](https://lh5.googleusercontent.com/9KXPMh9vQhy2NPKcs6hBC27e8ujkteOvQU0-o5SD9Vqcxyu-FI2sWP0wPvzHi1pdNqZ1UDds9O5Yt-Xbelqf2VAAWK_i3UINKw3BNffuNu51MQtNYuygDkCxAmtobSldXT5uPZtTFEvzgnxqai1gUs7MJHniM8GAjSdyht297gmAzkzWtw-Txkb5_A)
+
+  
+Test CAPI events (optional)[](#test-capi-events-optional)
+------------------------------------------------------------
+
+After finishing the steps above and if you want to test that everything is working well, start browsing your website to fire events. You should be able to see “Server” events in the overview tab :
+
+![Image 5](https://lh6.googleusercontent.com/VHKE4EOXAUWxfEqMT1QAYY5wuhLHx84jz9rP3gQ8URqNCh2alRDvmONsV4wIco9be_dMw7OlWMu-CSYwUQVGTG2_iVvnLjomRg1jnne1hQfChtH7Y4Iy0pqI6b18fn_iirN1dnC0qLe6w5cupx6Ix0fyfDm6wXoQ5J37alooen0X0TAqwaI6I2sJ8A)
+
+*   Note: It's possible to occasionally get warnings. Some of these alerts can be false positives.
+
+How can I manage Facebook pixel traffic permissions?[](#how-can-i-manage-facebook-pixel-traffic-permissions)
+------------------------------------------------------------------------------------------------------------
+
+Select your Pixel. Click Settings. Select Create Allow List or Create Block List from the dropdown menu under Traffic Permissions. Click on the button to confirm your selection.
+
+*   Note: to learn more about CAPI we advise you to visit https://www.facebook.com/business/help/
