@@ -4,8 +4,8 @@ const path = require('path');
 
 // Array of URLs to replace https://example.com
 const urls = [
-    // "https://docs.lightfunnels.com/what-is-lightfunnels/",
-    // "https://docs.lightfunnels.com/managing-accounts/",
+    "https://docs.lightfunnels.com/what-is-lightfunnels/",
+    "https://docs.lightfunnels.com/managing-accounts/",
     "https://docs.lightfunnels.com/creating-an-account/",
     "https://docs.lightfunnels.com/adding-a-product/",
     "https://docs.lightfunnels.com/importing-a-product/",
