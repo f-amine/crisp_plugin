@@ -2,7 +2,6 @@ const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
 
-// Array of URLs to replace https://example.com
 const urls = [
     "https://docs.lightfunnels.com/what-is-lightfunnels/",
     "https://docs.lightfunnels.com/managing-accounts/",
@@ -88,9 +87,11 @@ async function fetchData(url) {
 
 // Function to save response to a file
 function saveToFile(title, urlSource,  markdownContent) {
-    const filename = title.replace(/\s/g, '_') + '.md';
+    // Replace ? with _ in the title
+    const sanitizedTitle = title.replace(/\?/g, '_');
+    const filename = sanitizedTitle.replace(/\s/g, '_') + '.txt';
     const filePath = path.join(__dirname, filename);
-    const content = `Title: ${title}\n\nURL Source: ${urlSource}\n\nPublished \n\nMarkdown Content:\n${markdownContent}`;
+    const content = `Title: ${sanitizedTitle}\n\nURL Source: ${urlSource}\n\nPublished \n\nMarkdown Content:\n${markdownContent}`;
     
     fs.writeFile(filePath, content, (err) => {
         if (err) {
@@ -100,7 +101,6 @@ function saveToFile(title, urlSource,  markdownContent) {
         }
     });
 }
-
 // Main function to fetch data for each URL and save to file
 async function main() {
     for (const url of urls) {
@@ -128,3 +128,20 @@ function getMarkdownContent(response) {
 
 // Run main function
 main();
+
+
+
+
+// Get Messages In Conversation 
+// var websiteID = "8c842203-7ed8-4e29-a608-7cf78a7d2fcc";
+// var pageNumber = 1;
+
+// CrispClient.website.listConversations(websiteID, pageNumber);
+
+// List Conversations 
+
+// var websiteID = "8c842203-7ed8-4e29-a608-7cf78a7d2fcc";
+// var sessionID = "session_700c65e1-85e2-465a-b9ac-ecb5ec2c9881";
+// var timestampBefore = 1641206011000;
+
+// CrispClient.website.getMessagesInConversation(websiteID, sessionID, timestampBefore);
