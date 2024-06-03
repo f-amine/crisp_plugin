@@ -1,0 +1,4 @@
+## Changing the Thank You Page Message
+To change the message displayed on the Thank You page after checkout:
+1. Navigate to the Thank You page step.
+2. Edit the message as needed.

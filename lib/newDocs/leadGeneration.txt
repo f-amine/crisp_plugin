@@ -1,0 +1,6 @@
+## Lead Generation and Fees
+
+### Lead Limits and Charges
+- **Initial Lead Limit**: Users can generate up to 5,000 leads per month.
+- **Extra Leads**: For each additional 1,000 leads beyond the initial 5,000, a fee of $5 is charged.
+- **Clarification**: The lead count pertains to lead generation, not sales.

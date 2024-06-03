@@ -1,0 +1,7 @@
+## Payment Method Not Available
+
+If the payment method is not available even though it is activated in your funnel:
+
+1. **Add Payment Method Element**: Ensure that you have added the payment method element to your funnel. This can be done by:
+   - Navigating to the funnel editor.
+   - Dragging and dropping the payment method element into the desired section of your funnel.

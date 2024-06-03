@@ -1,0 +1,22 @@
+## Redirecting Visitors to Specific Funnels Based on Location
+
+### Overview
+Lightfunnels allows you to redirect visitors to specific funnels based on their geographic location. This guide explains how to configure these redirects and provides steps for troubleshooting common issues.
+
+### Configuring Redirects
+
+1. **Setting Up Funnels:**
+   - **Hidden Funnel:** A funnel that will only be accessible to visitors from specific countries.
+   - **Public Funnel:** A funnel accessible to visitors from all other countries.
+
+2. **Default Configuration:**
+   - Visitors from Saudi Arabia will be redirected to the hidden funnel.
+   - Visitors from all other countries will access the public funnel.
+
+### Example Configuration
+
+- **Hidden Funnel URL:** `https://www.example.com/hidden-funnel`
+- **Public Funnel URL:** `https://www.example.com/public-funnel`
+
+In your ads or direct links, use the public funnel URL (`https://www.example.com/public-funnel`). 
+

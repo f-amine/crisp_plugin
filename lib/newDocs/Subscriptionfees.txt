@@ -1,0 +1,3 @@
+## Understanding Subscription Fees
+Lightfunnels charges a 0.2% fee for cash on delivery transactions. This fee is calculated based on your sales:
+- Calculation: `Your Sales * 0.2%`

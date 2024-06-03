@@ -85,19 +85,26 @@ async function fetchData(url) {
     }
 }
 
+
 // Function to save response to a file
-function saveToFile(title, urlSource,  markdownContent) {
+function saveToFile(title, urlSource, markdownContent) {
     // Replace ? with _ in the title
     const sanitizedTitle = title.replace(/\?/g, '_');
     const filename = sanitizedTitle.replace(/\s/g, '_') + '.txt';
-    const filePath = path.join(__dirname, filename);
+    const dirPath = path.join(__dirname, 'lfdocs');
+    const filePath = path.join(dirPath, filename);
     const content = `Title: ${sanitizedTitle}\n\nURL Source: ${urlSource}\n\nPublished \n\nMarkdown Content:\n${markdownContent}`;
-    
+
+    // Ensure the directory exists
+    if (!fs.existsSync(dirPath)) {
+        fs.mkdirSync(dirPath);
+    }
+
     fs.writeFile(filePath, content, (err) => {
         if (err) {
             console.error(`Error writing to file ${filename}: ${err}`);
         } else {
-            console.log(`File ${filename} saved successfully!`);
+            console.log(`File ${filename} saved successfully in ${dirPath}!`);
         }
     });
 }

@@ -1,0 +1,11 @@
+## Troubleshooting Sales Issues
+
+### Low Sales Conversion
+If you are experiencing low sales conversion compared to other platforms like Shopify, consider the following:
+
+1. **Traffic Source**: Ensure that the traffic coming to your store is targeted and relevant.
+2. **Checkout Process**: There might be issues in the checkout process affecting conversions.
+   - Use tools like Microsoft Clarity to track customer behavior and identify potential problems.
+   - Look for issues like complicated navigation, slow loading times, or errors in the checkout process.
+3. **Ad Campaigns**: Review your ad campaigns to ensure they are optimized for the platform.
+   - Compare the performance metrics of your campaigns on different platforms.

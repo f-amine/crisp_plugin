@@ -1,0 +1,17 @@
+
+## Adding Multiple SKUs to One Product Page
+
+### Issue
+How to add two SKUs to one product page in Lightfunnels.
+
+### Solution
+1. **Use Variants**:
+   - To add multiple SKUs to a single product page, utilize the product variant feature.
+   - Each variant can have its own unique SKU.
+
+2. **Implementation**:
+   - Create a product and add variants under the product settings.
+   - Assign different SKUs to each variant as needed.
+
+### Testing
+- After setting up the variants and SKUs, test the product page to ensure that the SKUs are correctly displayed and functioning.
